@@ -1,1 +1,1 @@
-# Simple demo application on spring boot to send mail using Spring mail
+# Simple demo on spring boot to send mail using Spring mail
